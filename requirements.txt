@@ -6,3 +6,6 @@ tensorflow==2.12.0
 matplotlib==3.5.1
 opencv-python-headless
 streamlit-image-select==0.5.1
+
+# Added to fix distutils error in Python 3.12+
+setuptools
